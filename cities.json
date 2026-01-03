@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2025-11-05",
+    "total_cities": 20,
+    "description": "Airport and city information database"
+  },
+  "cities": [
+    {
+      "code": "KHI",
+      "name": "Karachi",
+      "airport_name": "Jinnah International Airport",
+      "country": "Pakistan",
+      "timezone": "PKT (UTC+5)",
+      "latitude": 24.9056,
+      "longitude": 67.0822
+    },
+    {
+      "code": "ISB",
+      "name": "Islamabad",
+      "airport_name": "Islamabad International Airport",
+      "country": "Pakistan",
+      "timezone": "PKT (UTC+5)",
+      "latitude": 33.6167,
+      "longitude": 73.0833
+    },
+    {
+      "code": "LHE",
+      "name": "Lahore",
+      "airport_name": "Allama Iqbal International Airport",
+      "country": "Pakistan",
+      "timezone": "PKT (UTC+5)",
+      "latitude": 31.5497,
+      "longitude": 74.3436
+    },
+    {
+      "code": "DXB",
+      "name": "Dubai",
+      "airport_name": "Dubai International Airport",
+      "country": "UAE",
+      "timezone": "GST (UTC+4)",
+      "latitude": 25.2532,
+      "longitude": 55.3657
+    },
+    {
+      "code": "DOH",
+      "name": "Doha",
+      "airport_name": "Hamad International Airport",
+      "country": "Qatar",
+      "timezone": "AST (UTC+3)",
+      "latitude": 25.2739,
+      "longitude": 51.6080
+    },
+    {
+      "code": "IST",
+      "name": "Istanbul",
+      "airport_name": "Istanbul Airport",
+      "country": "Turkey",
+      "timezone": "TRT (UTC+3)",
+      "latitude": 41.2753,
+      "longitude": 28.7519
+    },
+    {
+      "code": "AUH",
+      "name": "Abu Dhabi",
+      "airport_name": "Abu Dhabi International Airport",
+      "country": "UAE",
+      "timezone": "GST (UTC+4)",
+      "latitude": 24.4333,
+      "longitude": 54.6511
+    },
+    {
+      "code": "MCT",
+      "name": "Muscat",
+      "airport_name": "Muscat International Airport",
+      "country": "Oman",
+      "timezone": "GST (UTC+4)",
+      "latitude": 23.5933,
+      "longitude": 58.2844
+    },
+    {
+      "code": "JED",
+      "name": "Jeddah",
+      "airport_name": "King Abdulaziz International Airport",
+      "country": "Saudi Arabia",
+      "timezone": "AST (UTC+3)",
+      "latitude": 21.6796,
+      "longitude": 39.1564
+    },
+    {
+      "code": "LHR",
+      "name": "London",
+      "airport_name": "London Heathrow Airport",
+      "country": "United Kingdom",
+      "timezone": "GMT (UTC+0)",
+      "latitude": 51.4700,
+      "longitude": -0.4543
+    },
+    {
+      "code": "JFK",
+      "name": "New York",
+      "airport_name": "John F. Kennedy International Airport",
+      "country": "USA",
+      "timezone": "EST (UTC-5)",
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    {
+      "code": "CDG",
+      "name": "Paris",
+      "airport_name": "Charles de Gaulle Airport",
+      "country": "France",
+      "timezone": "CET (UTC+1)",
+      "latitude": 49.0097,
+      "longitude": 2.5479
+    },
+    {
+      "code": "FRA",
+      "name": "Frankfurt",
+      "airport_name": "Frankfurt Airport",
+      "country": "Germany",
+      "timezone": "CET (UTC+1)",
+      "latitude": 50.0379,
+      "longitude": 8.5622
+    },
+    {
+      "code": "SIN",
+      "name": "Singapore",
+      "airport_name": "Singapore Changi Airport",
+      "country": "Singapore",
+      "timezone": "SGT (UTC+8)",
+      "latitude": 1.3644,
+      "longitude": 103.9915
+    },
+    {
+      "code": "BKK",
+      "name": "Bangkok",
+      "airport_name": "Suvarnabhumi Airport",
+      "country": "Thailand",
+      "timezone": "ICT (UTC+7)",
+      "latitude": 13.6900,
+      "longitude": 100.7501
+    },
+    {
+      "code": "SYD",
+      "name": "Sydney",
+      "airport_name": "Sydney Kingsford Smith Airport",
+      "country": "Australia",
+      "timezone": "AEDT (UTC+11)",
+      "latitude": -33.9399,
+      "longitude": 151.1753
+    },
+    {
+      "code": "CAI",
+      "name": "Cairo",
+      "airport_name": "Cairo International Airport",
+      "country": "Egypt",
+      "timezone": "EET (UTC+2)",
+      "latitude": 30.1219,
+      "longitude": 31.4056
+    },
+    {
+      "code": "DEL",
+      "name": "New Delhi",
+      "airport_name": "Indira Gandhi International Airport",
+      "country": "India",
+      "timezone": "IST (UTC+5:30)",
+      "latitude": 28.5665,
+      "longitude": 77.1031
+    },
+    {
+      "code": "BOM",
+      "name": "Mumbai",
+      "airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+      "country": "India",
+      "timezone": "IST (UTC+5:30)",
+      "latitude": 19.0896,
+      "longitude": 72.8656
+    },
+    {
+      "code": "HKG",
+      "name": "Hong Kong",
+      "airport_name": "Hong Kong International Airport",
+      "country": "Hong Kong",
+      "timezone": "HKT (UTC+8)",
+      "latitude": 22.3080,
+      "longitude": 113.9185
+    }
+  ]
+}
